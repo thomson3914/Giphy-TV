@@ -1,4 +1,7 @@
-#  GifTastic - API + JSON   06-Week  Homework
+# Giphy-TV
+GifTastic - API + JSON   
+
+Check it out - https://thomson3914.github.io/Giphy-TV/
 
 ## Requirements 
 
